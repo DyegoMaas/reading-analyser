@@ -164,3 +164,6 @@ deploy.7z
 database_*.txt
 
 release.zip
+
+#paket
+.paket/paket.exe
