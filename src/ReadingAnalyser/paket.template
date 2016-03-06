@@ -1,0 +1,23 @@
+type project
+owners
+    Dyego Alekssander Maas
+authors 
+    Dyego Alekssander Maas
+projectUrl
+    http://github.com/DyegoMaas/ReadingAnalyser
+iconUrl
+    https://raw.githubusercontent.com/DyegoMaas/ReadingAnalyser/master/docs/files/img/logo.png
+licenseUrl
+    http://github.com/DyegoMaas/ReadingAnalyser/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    
+summary
+    Analisa o progresso de leitura de livros e audiobooks
+description
+    Analisa o progresso de leitura de livros e audiobooks
+
+
