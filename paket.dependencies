@@ -1,5 +1,6 @@
 source https://nuget.org/api/v2
 
+
 group Build
   source https://nuget.org/api/v2
   
@@ -12,6 +13,6 @@ group Build
 group Test
   source https://nuget.org/api/v2
   
-nuget FsUnit
-  nuget NUnit ~> 2
-  nuget NUnit.Runners ~> 2
+  nuget FsUnit 2.1.0
+  nuget NUnit 3.2.0
+  nuget NUnit.Runners
