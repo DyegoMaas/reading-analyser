@@ -12,5 +12,5 @@ module BookStatistics =
 
             let audiobookDuration = milisecondsCompleted + milisecondsRemaining
             let percentageCompleted =  milisecondsCompleted / audiobookDuration * 100.0
-            float percentageCompleted
+            percentageCompleted
             

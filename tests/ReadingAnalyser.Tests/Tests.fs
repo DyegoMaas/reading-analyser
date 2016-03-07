@@ -13,5 +13,3 @@ let ``getting 20% remaining from 2h listened and 8h remaining`` () =
     let remainingPercentage = Audiobook.GetRemainingPercentage(timeListened, timeRemained)
     
     Assert.AreEqual(20.0, remainingPercentage)
-
-//    Assert.AreEqual(2, 2)
